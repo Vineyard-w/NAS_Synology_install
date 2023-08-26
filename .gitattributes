@@ -1,0 +1,6 @@
+tools/Win32DiskImager.zip filter=lfs diff=lfs merge=lfs -text
+tools/Diskgenius_Pro_x64_5.5.0.1488_cn.exe filter=lfs diff=lfs merge=lfs -text
+tools/rufus-4.2.exe filter=lfs diff=lfs merge=lfs -text
+tools/ChipGenius.exe filter=lfs diff=lfs merge=lfs -text
+sys/arpl-i18n-23.8.11.img.zip filter=lfs diff=lfs merge=lfs -text
+sys/DSM_DS918+_64570.pat filter=lfs diff=lfs merge=lfs -text
